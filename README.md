@@ -57,4 +57,5 @@ python blackjack.py
 🙌 Acknowledgments
 
 Thanks to the original content creator on YouTube for the step-by-step explanation. The tutorial really helped me understand how to build a full mini-project in Python.
-[Youtube tutorial link][https://youtu.be/eWRfhZUzrAc]
+
+[🔗Youtube tutorial link](https://youtu.be/eWRfhZUzrAc)
